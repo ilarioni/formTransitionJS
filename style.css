@@ -13,6 +13,7 @@ body {
     background: #fff;
     border-radius: 8px;
     position: relative;
+    transition: 0.9s;
 }
 h3 {
     text-align: center;
