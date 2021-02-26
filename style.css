@@ -3,3 +3,14 @@
     padding: 0;
     font-family: monospace, sans-serif;
 }
+body {
+    background: #9198e5;
+}
+.container {
+    width: 360px;
+    height: 400px;
+    margin: 10% auto;
+    background: #fff;
+    border-radius: 8px;
+    position: relative;
+}
