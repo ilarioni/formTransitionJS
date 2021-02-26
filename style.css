@@ -54,3 +54,19 @@ form button {
     color: #fff;
     cursor: pointer;
 }
+#Form2 {
+    left: 450px;
+}
+#Form3 {
+    left: 450px;
+}
+
+.step-row {
+    width: 360px;
+    height: 40px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 -1px 5px -1px #000;
+    position: relative;
+}
