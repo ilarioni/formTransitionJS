@@ -75,6 +75,23 @@ form button {
 .step-col {
     width: 120px;
     text-align: center;
-    color: #333;
+    color: #fff;
     position: relative;
+}
+#progress {
+    position: absolute;
+    height: 100%;
+    width: 120px;
+    background: linear-gradient(to right, #ff10d7,#061fff);
+}
+#progress::after {
+    content: '';
+    height: 0;
+    width: 0;
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    position: absolute;
+    right: -20px;
+    top: 0;
+    border-left: 20px solid #2b06ff;
 }
