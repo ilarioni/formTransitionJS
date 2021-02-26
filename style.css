@@ -69,4 +69,12 @@ form button {
     align-items: center;
     box-shadow: 0 -1px 5px -1px #000;
     position: relative;
+    border-radius: 8px;
+}
+
+.step-col {
+    width: 120px;
+    text-align: center;
+    color: #333;
+    position: relative;
 }
