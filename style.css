@@ -14,6 +14,7 @@ body {
     border-radius: 8px;
     position: relative;
     transition: 0.9s;
+    overflow: hidden;
 }
 h3 {
     text-align: center;
